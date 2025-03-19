@@ -6,7 +6,6 @@
 - MongoDB
 - @theinternetfolks/snowflake
 - JWT Authentication
-- Joi for Input Validation
 
   
 ## Approach
